@@ -21,7 +21,7 @@ public class MainApp {
 			a.doIt();
 			b.doIt();
 			try {
-				Thread.sleep(50);
+				Thread.sleep(500);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
